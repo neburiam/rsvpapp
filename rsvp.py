@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 from flask import Flask, render_template, redirect, url_for, request,make_response
 from pymongo import MongoClient
 from bson.objectid import ObjectId
